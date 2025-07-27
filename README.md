@@ -2,6 +2,10 @@
 # Welcome!
 This repository contains the labs for [*6.S184/6.S975: Generative AI with Stochastic Differential Equations*](https://diffusion.csail.mit.edu), as taught at MIT over IAP 2025. For questions and concerns, please email us at `erives@mit.edu` and `phold@mit.edu`. Enjoy :)
 
+## Super changelog
+- I, nah, I would win. Group MIS added DTM from Transition Matching: Scalable and Flexible Generative Modeling(https://arxiv.org/abs/2506.23589). Testing its periority in term of compute and data efficiency as well as quality.
+- code path of DTM: solutions/code/flow_with_t_dtm.py
+
 ### Changelog
 - 1/22/25: Lab 1: Fix several typos in lab one.
 - 1/27/25: Labs 1 + 2: Add clarification regarding truncated PDFs when submitting w/ Colab + Chrome.
